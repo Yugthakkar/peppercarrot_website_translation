@@ -5,8 +5,8 @@ We moved on November 2017 to this new platform. Details [here](https://www.peppe
 ---
 
 
-# Pepper&Carrot translation project
-## full website static pages
+# Pepper&Carrot Translation Project
+## Full Website Static Pages
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
 ![alt tag](http://www.peppercarrot.com/data/images/lab/2015-03-02_tuto-translation/2015-03-01_g_about-website.jpg)
